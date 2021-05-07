@@ -1,0 +1,3 @@
+﻿  word_count.c
+D:\Gittest\WordCount\WordCount\word_count.c(21,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  WordCount.vcxproj -> D:\Gittest\WordCount\x64\Debug\WordCount.exe
